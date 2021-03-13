@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.title{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.red{
+  color: #61dafb;
+}
